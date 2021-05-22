@@ -10,7 +10,7 @@ Run [OptiPNG](http://optipng.sourceforge.net/) parallelly.
 2. Build optipng-parallel
 
 ``` shell
-$ go install github.com/macrat/optipng-parallel
+$ go install github.com/macrat/optipng-parallel@latest
 ```
 
 ## Usage
